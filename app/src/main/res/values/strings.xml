@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toast Test</string>
+
+    <string name="normalText">This is NORMAL toast</string>
+    <string name="customText">This is CUSTOM TEXT toast</string>
+    <string name="fullCustomText">This is FULL CUSTOM toast</string>
+</resources>
